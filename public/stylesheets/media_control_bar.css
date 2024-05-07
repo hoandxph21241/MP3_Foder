@@ -1,0 +1,24 @@
+.body {
+    overflow-x: hidden;
+  }
+.media-control-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+
+.media-control-bar .progress {
+    height: 5px;
+}
+
+.audioPlayer {
+    width: 100%;
+    height: 50px; 
+}
+
+/* .media-control-bar .progress-bar {
+    background-color: red;
+} */

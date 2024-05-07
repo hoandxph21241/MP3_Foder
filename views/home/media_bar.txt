@@ -1,0 +1,54 @@
+<div class="media-control-bar">
+                <div class="row align-items-center">
+                    <div class="col-4">
+                        <!-- backward -->
+                        <button class="btn btn-secondary">
+                        </button>
+
+                        <!-- play -->
+                        <button class="btn btn-primary">
+                        </button>
+
+                        <!-- forward -->
+                        <button class="btn btn-secondary">
+                        </button>
+
+                        <!-- repeat -->
+                        <button class="btn btn-secondary">
+                        </button>
+
+                        <!-- shuffle -->
+                        <button class="btn btn-secondary">
+                        </button>
+                    </div>
+
+                    <div class="col-4">
+                        <audio id="audioPlayer" controls>
+                            <source src="" type="audio/mpeg">
+                        </audio>
+                    </div>
+                </div>
+
+            <div class="col-4 text-right">
+
+                <!-- volume-up -->
+                <button class="btn btn-secondary">
+                </button>
+
+                <!-- heart -->
+                <button class="btn btn-secondary">
+                </button>
+
+                <!-- share -->
+                <button class="btn btn-secondary">
+                </button>
+
+                <!-- person -->
+                <button class="btn btn-secondary">
+                </button>
+
+                <!-- three-dots-vertical -->
+                <button class="btn btn-secondary">
+                </button>
+            </div>
+            </div>
